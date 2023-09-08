@@ -1,5 +1,5 @@
-import { styled } from "styled-components"
-import search from './search.svg'
+import { styled } from "styled-components";
+import search from './search.svg';
 
 const ContainerEstilizado = styled.div`
     position: relative;

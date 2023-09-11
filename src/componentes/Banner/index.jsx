@@ -5,6 +5,7 @@ const FigureEstilizada = styled.figure`
     align-items: center;
 
     background-image: ${props => `url(${props.$backgroundImage})`};
+    background-size: cover;
     background-repeat: no-repeat;
     border-radius: 20px;
 

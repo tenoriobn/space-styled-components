@@ -6,6 +6,7 @@ import Imagem from "./Imagem";
 
 const GaleriaContainer = styled.section`
     display: flex;
+    gap: 24px;
 `
 
 const SecaoFluida = styled.section`
